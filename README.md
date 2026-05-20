@@ -29,3 +29,15 @@ TypeScript → compiled to JavaScript. Runs in the browser via a canvas element.
 - Singleton pattern
 - Factory pattern
 - 2D vector math and linear interpolation
+
+## Attribution
+
+This project was completed as part of a course assignment. 
+The following files were provided as starter code and were not written by me:
+
+- `src/assert.ts` — provided by course staff
+- `src/geometry.ts` — provided by course staff
+- `src/sprite.ts` — provided by course staff
+- `public/index.html` — provided by course staff
+
+All other files in `src/` were written by me.
