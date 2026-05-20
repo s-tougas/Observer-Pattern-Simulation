@@ -3,3 +3,6 @@ coverage/
 out/
 images_out/
 dist/
+js/
+dist/
+*.map
